@@ -1,5 +1,5 @@
 CXX       := g++
-CXX_FLAGS := -std=c++17 -ggdb -Iinclude
+CXX_FLAGS := -std=c++17 -ggdb -Iinclude -fopenmp
 
 BIN     := bin
 SRC     := src
